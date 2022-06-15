@@ -1,0 +1,8 @@
+{
+  "name": "myNewProjecyCloud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a9c19ce6"
+}
